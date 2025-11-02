@@ -107,8 +107,6 @@ olist-ecommerce-analysis/
 ├── README.md                  # This file: Overview, insights, setup
 ├── data_cleaning.ipynb        # ETL: Null handling, datetime fixes, CSV exports
 ├── analysis.ipynb             # Core: Master table, business Q&A, summaries
-├── data/                      # Raw Kaggle CSVs (optional)
-│   └── olist_dataset/         # 9 original files
 ```
 
 ---
